@@ -18,6 +18,11 @@
   </tbody>
 </table>
 <br>
+<a href="www.linkedin.com/in/david-sousa-de-araujo-21a15b26a">
+  <img color:"black" width="30px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png"/>
+  </a>
+<br>
+<br>
 Je suis en formation "Développeur web et web mobile" à Élan Formation à Strasbourg. J'apprends et améliore actuellement en HTML, CSS et PHP.
 
 <!--
