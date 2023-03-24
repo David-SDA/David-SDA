@@ -13,6 +13,9 @@
             <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+            </td><td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
      </tr>
   </tbody>
@@ -23,7 +26,7 @@
   </a>
 <br>
 <br>
-Je suis en formation "Développeur web et web mobile" à Élan Formation à Strasbourg. J'apprends et améliore actuellement en HTML, CSS et PHP.
+Je suis en formation "Développeur web et web mobile" à Élan Formation à Strasbourg. J'apprends et m'améliore actuellement en HTML, CSS, PHP et Javascript.
 
 <!--
 **David-SDA/David-SDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
