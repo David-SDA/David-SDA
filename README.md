@@ -21,7 +21,7 @@
   </tbody>
 </table>
 <br>
-<a href="https://fr.linkedin.com/in/david-sousa-de-araujo-21a15b26a" target="_blank">
+<a href="https://www.linkedin.com/in/david-manuel-sousa-de-araujo/" target="_blank">
   <img color:"black" width="30px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png"/>
   </a>
 <br>
