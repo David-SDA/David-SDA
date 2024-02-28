@@ -26,7 +26,7 @@
   </a>
 <br>
 <br>
-Je suis en formation "Développeur web et web mobile" à Élan Formation à Strasbourg. J'apprends et m'améliore actuellement en HTML, CSS, PHP et Javascript.
+Suite à l'obtention de mon diplôme de développeur web et web mobile (niveau 5, équivalent bac +2), je suis à la recherche d'opportunité dans le développement web pour un premier emploi ou une alternance.
 
 <!--
 **David-SDA/David-SDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
