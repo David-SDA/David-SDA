@@ -1,44 +1,32 @@
-### Hello there 👋
-<table width="320px">
-  <tbody>
-    <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>PHP</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-            </td><td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
-     </tr>
-  </tbody>
-</table>
-<br>
-<a href="https://www.linkedin.com/in/david-manuel-sousa-de-araujo/" target="_blank">
-  <img color:"black" width="30px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png"/>
-  </a>
-<br>
-<br>
+<h1 align="center">Hello there 👋</h1>
+
+## 👨‍💻 À propos de moi 
 Suite à l'obtention de mon diplôme de développeur web et web mobile (niveau 5, équivalent bac +2), je suis à la recherche d'opportunité dans le développement web pour un premier emploi ou une alternance.
 
-<!--
-**David-SDA/David-SDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
+- 📫 Mon LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-manuel-sousa-de-araujo/)
+- 📧 Mon Email : davidaraujo2001@gmail.com
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Langages et outils :
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP8" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+## 🖥️ Autres informations
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SDA)](https://github.com/David-SDA/github-readme-stats)
