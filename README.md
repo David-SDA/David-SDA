@@ -27,6 +27,6 @@ Suite à l'obtention de mon diplôme de développeur web et web mobile (niveau 5
 ---
 
 ## 🖥️ Autres informations
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=David-SDA)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SDA)](https://github.com/David-SDA/github-readme-stats)
