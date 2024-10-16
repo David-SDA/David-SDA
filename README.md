@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 ## 👨‍💻 À propos de moi 
-Suite à l'obtention de mon diplôme de développeur web et web mobile (niveau 5, équivalent bac +2), je suis à la recherche d'opportunité dans le développement web pour un premier emploi ou une alternance.
+Suite à l'obtention de mon diplôme de développeur web et web mobile (niveau 5, équivalent bac +2), je continue d'étudier à la CCI pour le titre Concepteur Développeur d'Applications en alternance.
 
 ### Contact
 - 📫 Mon LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-manuel-sousa-de-araujo/)
